@@ -1,4 +1,4 @@
-.hero {
+ .hero {
   height: 100vh;
   background: #111;
   display: flex;
@@ -93,3 +93,6 @@
     display: none;
   }
 }
+#contact a{
+  color : white
+} 
